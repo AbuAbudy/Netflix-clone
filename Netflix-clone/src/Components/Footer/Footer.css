@@ -1,5 +1,5 @@
 .footer-outer-container {
-    background-color: #141414; /* Netflix footer dark */
+    background-color: #141414;
     color: #999;
     padding: 40px 20px 20px;
     font-size: 14px;
@@ -36,7 +36,7 @@
   }
   
   .footer-inner-container li:hover {
-    color: #e50914; /* Netflix red */
+    color: #e50914; 
   }
   
   .srvice-code {
